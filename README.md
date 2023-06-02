@@ -6,7 +6,7 @@
 
     - résumer un ou plusieurs documents
     - jouer le rôle d'un interlocuteur
-        - coach de formation (pour répondre à mes questions, pratiques ou théoriques)
+        - coach de formation (pour répondre à des questions, pratiques ou théoriques)
         - résolveur de problèmes (car on peut souvent soi-même résoudre un problème quand on se met à l'expliquer à quelqu'un)
         - colleur de prépa (pour vérifier qu'on a bien compris les concepts : oui si on sait les expliquer)
         - avocat du diable (pour aider à objectiver quand on doit prendre une décision)
@@ -19,9 +19,9 @@
     - refactoriser du code
     - trouver des bugs dans un code
     - jouer le rôle d'un interlocuteur
-        - coach de formation (pour répondre à mes questions, pratiques ou théoriques)
+        - coach de formation (pour répondre à des questions, pratiques ou théoriques)
         - résolveur de problèmes / canard en plastique (car on peut souvent soi-même résoudre un problème quand on se met à l'expliquer à quelqu'un)
-        - colleur de prépa (pour vérifier que j'ai bien compris les concepts si je sais les expliquer)
+        - colleur de prépa (pour vérifier qu'on a bien compris les concepts : oui si on sait les expliquer)
 
 ## Prompts
 
